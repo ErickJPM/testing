@@ -17,6 +17,6 @@ def test_personas():
     {"name":"Erick","edad":20},
     {"name":"Antonio","edad":30},
     {"name":"Andrea","edad":40},
-    {"name":"Jesus","edad":50}
+    {"name":"Jesus","edad":40}
     ]
     assert ap.personas_mayores(arregloDiccionarios)==9
